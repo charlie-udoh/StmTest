@@ -1,0 +1,5 @@
+Question 4
+The best approach will be to use a JSON file that will be stored at a specific location and will contain different language versions of the poem.
+This JSON file can be edited by anyone including a non-technical person as it will be a simple key-value pair data structure.
+In the program, the user will be prompted to choose a language for a specified list of languages.
+On choosing a language, the program will read the corresponding language version of the poem from the JSON file.

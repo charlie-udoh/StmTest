@@ -1,0 +1,16 @@
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\StmTest.exe
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\StmTest.deps.json
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\StmTest.runtimeconfig.json
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\StmTest.runtimeconfig.dev.json
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\StmTest.dll
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\ref\StmTest.dll
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\bin\Debug\net5.0\StmTest.pdb
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.csproj.AssemblyReference.cache
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.AssemblyInfoInputs.cache
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.AssemblyInfo.cs
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.csproj.CoreCompileInputs.cache
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.dll
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\ref\StmTest.dll
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.pdb
+C:\Users\charl\Projects\Assessments\StmTest\StmTest\obj\Debug\net5.0\StmTest.genruntimeconfig.cache
